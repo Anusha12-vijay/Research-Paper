@@ -110,10 +110,3 @@ This work demonstrates how **high-performing deep learning models**, when combin
 
 ---
 
-If you want, next I can:
-
-* tailor this README for **recruiters (AI / ML roles)**
-* add a **Results table + model comparison chart**
-* or write a **short “Project Summary” version for your resume**
-
-This is solid research — now it *looks* solid too 💪
